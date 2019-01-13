@@ -6,4 +6,4 @@ Coding exercise for fall 2018 Reinforcement Learning course covering the followi
 - Basic algorithms suck as Enumeration, Value iteration, Policy iteration, Q-learning, and TD-learning
 - Deep reinforcement learning such as Deep Q-network, Actor-critic algorithm, Monte-Carlo tree search, Contextual bandit, Multi-arm bandit, Expected improvement algorithm, and Upper confidence bound (UCB) algorithm
 
-Exercises powered by OpenGyn and Tensorflow.
+Exercises powered by OpenGym and Tensorflow.
